@@ -70,6 +70,10 @@ header {
   background: var(--color-button);
 }
 
+.blue--large:hover {
+  background: #571a6e;
+}
+
 .gray--large {
   border: 1px solid var(--color-text);
 }
