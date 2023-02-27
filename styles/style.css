@@ -78,6 +78,10 @@ header {
   border: 1px solid var(--color-text);
 }
 
+.gray--large:hover {
+  background: #707070;
+}
+
 .header__note {
   font-size: 0.75em;
   color: var(--color-description);
@@ -114,6 +118,10 @@ header {
   background: var(--color-button);
   text-align: center;
   flex-basis: 0;
+}
+
+.blue--small:hover {
+  background: #571a6e;
 }
 
 .section__devices {
@@ -167,6 +175,10 @@ footer {
 
 .footer__links--link {
   color: var(--color-main);
+}
+
+.footer__links--link:hover {
+  background: #571a6e;
 }
 
 .footer__text {
